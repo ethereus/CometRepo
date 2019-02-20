@@ -1,3 +1,0 @@
-This file will get placed in: /var/LIB/HelloWorld.txt
-
-This simply merges files.
